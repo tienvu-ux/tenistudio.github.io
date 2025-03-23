@@ -1,1 +1,1 @@
-# tenistudio.github.io
+# tenistudio.com
